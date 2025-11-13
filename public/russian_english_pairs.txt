@@ -1,0 +1,646 @@
+при́нтер — printer
+ска́нер — scanner
+телеф о́н — telephone
+ноутб у́к — notebook
+айпа́д — ipad
+бра́узер — browser
+диспл е́й — display
+дра́йвер — driver
+кли́к — click
+логи́н — login
+по́ст — post  38
+са́йт — site 39
+интерн е́т — internet  40
+плаги́н — plagin 41
+навиг а́тор — navigator ( sat nav)  42
+подк а́ст — podcast  43
+бло́г — blog 44
+ла́йк — like 45
+мото́р — motor  46
+мотоц и́кл — motoc
+аккумул я́тор — accumulator,  battery
+а́удио — audio  48
+ви́део — video 49
+фи́льм — film 50
+фотогр а́фия — photography 51
+фотоаппар а́т — photo camera  52
+дра́йв — drive  53
+ви́рус — virus 54
+ди́ск — disk 55
+тач скри́н — touch screen  56
+та́ймер — timer  57
+маши́на — machine, also car  58
+пров а́йдер — provider  59
+ха́кер — hacker  60
+ю́зер — user 61
+тра́фик — traffic  62
+гри́ль — grill 63
+то́ррент — torrent 64
+мегаб а́йт — megabyte
+гигаб а́йт — gigabyte
+компр е́ссор — compressor
+форм а́т — format
+те́кст — text
+фо́рма — form
+мо́дуль — module
+фи́льтр — filtr
+номенклат у́ра — nomenclature
+онла́йн — online
+офла́йн — offline
+диагр а́мма — diagram
+озо́н — ozone
+пери́метр — perimeter
+перифер и́я — peripher
+фа́за — phase
+проц е́сс — process
+стриминг — streaming
+чи́ли — chili
+шпин а́т — spinach
+рамбут а́н — rambutan
+сала́т — salad
+фрукт — fruit 117
+лимо́н — lemon  118
+мандар и́н — mandarine  119
+абрик о́с — apricot  120
+бана́н — banana  121
+ки́ви — kiwi 122
+ма́нго — mango  123
+папа́йя — papaya 124
+грейпфр у́т — grapefruit 125
+ли́чи — lychee
+гуа́ва — guava
+ру́ккола — arugula  128
+базил и́к — basil
+спе́ции — spices  134
+кардам о́н — cardamom  135
+ка́рри — curry 136
+кори а́ндр — coriander  137
+ка́персы — capers
+су́ши — sushi  159
+пи́цца — pizza 160
+па́ста — pasta 161
+капучч и́но — cappuccino 162
+карбон а́ра — carbonara  163
+шокол а́д — chocolate  164
+сте́йк — steak  165
+беко́н — bacon 166
+моцар е́лла — mozzarella  167
+рави о́ли — ravioli  168
+ризо́тто — risotto  169
+лаза́нья — lasagna  170
+тирамис у́ — tiramisu  171
+спагг е́ти — spaghetti  172
+макар о́ны — macaroni, pasta  173
+карпа́ччо — carpaccio 174
+фока́чча — focaccia  175
+па́нна-ко́тта — panna cotta  176
+ко́фе — coffee 177
+маки а́то — macchiato  178
+саши́ми — sashimi  179
+вермише́ль — vermicelli 182
+саля́ми — salame 183
+анима́тор — animator 216
+администра́тор — administrator 217
+акаде́мик — academician 218
+пило́т — pilot 219
+авиа́тор — aviator 220
+акроба́т — acrobat 221
+актёр — actor 222
+банки́р — banker 223
+балери́на — ballerina 224
+бари́ста — barista 225
+журнали́ст — journalist 226
+зооло́г — zoologist 227
+иллюзиони́ст — illusionist 228
+инжене́р — engineer 229
+инве́стор — investor 230
+иммуно́лог — immunologist 231
+инспе́ктор — inspector 232
+ко́мик — comic 233
+компози́тор — composer 234
+корре́ктор — corrector 235
+кри́тик — critic 236
+курье́р — courier 237
+ме́неджер — manager 238
+метеоро́лог — meteorologist 239
+меха́ник — mechanic 240
+моде́ль — model 241
+невро́лог — neurologist 242
+опера́тор — operator 243
+ортопе́д — orthopedist 244
+организа́тор — organizer 245
+ортодо́нт — orthodontist 246
+маркето́лог — marketer 247
+педаго́г — pedagogo 266
+педиа́тор — pediatrician 267
+пиани́ст — pianist 268
+программи́ст — programmer 269
+психиа́тр — psychiatrist 270
+психотерапе́вт — psychotherapist 271
+психо́лог — psychologist 272
+психоанали́тик — psychoanalyst 273
+ревмато́лог — rheumatologist 274
+актри́са — actress 275
+реставра́тор — restorer 276
+ску́льптор — sculptor 277
+архите́ктор — architect 278
+орнито́лог — ornithologist 279
+спортсме́н — sportsman 280
+стюа́рд — steward 281
+су́ши-шеф — sushi chef 282
+эндокрино́лог — endocrinologist 283
+матема́тика — mathematics 295
+квантовая механика — quantum mechanics 296
+стати́стика — statistics 297
+антрополо́гия — anthropology 298
+исто́рия — history 299
+политоло́гия — political science 300
+эконо́мика — economics 301
+лингви́стика — linguistics 302
+психоло́гия — psychology 303
+педаго́гика — pedagogy 304
+э́тика — ethics 305
+эсте́тика — aesthetics
+филоло́гия — philology 308
+биоло́гия — biology 310
+геогра́фия — geography 312
+ло́гика — logic 314
+метеороло́гия — meteorology 316
+архитекту́ра — architecture 344
+биотехноло́гия — biotechnology 345
+меха́ника — mechanics 346
+гене́тика — genetics 347
+демогра́фия — demography 348
+генеало́гия — genealogy 349
+психоана́лиз — psychoanalysis 350
+рито́рика — rhetoric 351
+сексоло́гия — sexology 352
+уфоло́гия — ufology 353
+футуроло́гия — futurology 354
+эколо́гия — ecology 355
+этногра́фия — ethnography 356
+эпистемоло́гия — epistemology 357
+косметоло́гия — cosmetology 358
+магнитоло́гия — magnetology 359
+нейробиоло́гия — neurobiology 360
+онколо́гия — oncology 361
+палеоло́гия — paleology 362
+патоло́гия — pathology 363
+пиктогра́фия — petrography 364
+радиогра́фия — radiography 365
+радиоме́трия — radiometry 366
+риноло́гия — rinology 367
+сейсмогра́фия — seismography 368
+синоло́гия — sinology 369
+молекуля́рная биоло́гия — molecular biology 370
+нанофи́зика — nanophysics 380
+кванто́вая хи́мия — quantum chemistry 381
+синте́тическая биоло́гия — synthetic biology  374
+гелиоклиматоло́гия — helioclimatology    376
+астроэколо́гия — astroecology    378
+астрокарта́графия — astrocartography          Sport
+фи́тнесс — fitness 398
+йо́га — yoga 399
+карате́ — karat
+те́ннис — tennis 385
+го́л — goal 386
+го́льф — golf 387
+дзюдо́ — judo 388
+бейсбо́л — baseball 389
+бобсле́й — bob 390
+биатло́н — biathlon 391
+хокке́й — hockey 392
+кёрлинг — curling 393
+аэро́бика — aerobics 394
+бале́т — ballet 395
+бадминто́н — badminton    397
+эволюци́я — evolution 441
+аббревиа́ция — abbreviation 442
+на́ция — nation 443
+о́пция — option 444
+галлюцина́ция — hallucination 445
+ди́кция — diction 446
+ле́кция — lecture 447
+ова́ция — ovation 448
+по́рция — portion 449
+се́кция — section 450
+фи́кция — fiction 451
+эмо́ция — emotion 452
+авиа́ция — aviation 453
+амби́ция — ambition 454
+ине́рция — inertia 455
+мута́ция — mutation 456
+пети́ция — petition 457
+пози́ция — position 458
+реа́кция — reaction 459
+са́нкция — sanction 460
+ста́нция — station 461
+фра́кция — faction 462
+фу́нкция — function 463
+эре́кция — erection 464
+амуни́ция — ammunition 465
+инфля́ция — inflation 466
+инъе́кция — injection 467
+коали́ция — coalition 468
+крема́ция — cremation 469
+медиа́ция — mediation 470
+инфе́кция — infection 511
+интуба́ция — intubation 512
+иониза́ция — ionization 513
+иррига́ция — irrigation 514
+корру́пция — corruption 515
+корре́кция — correction 516
+иллюстра́ция — illustration 517
+медита́ция — meditation 518
+модуля́ция — modulation 519
+мотива́ция — motivation 520
+навига́ция — navigation 521
+номина́ция — nomination 522
+оккупа́ция — occupation 523
+оппози́ция — opposition 524
+пропо́рция — proportion 525
+резолю́ция — resolution 526
+репута́ция — reputation 527
+симуля́ция — simulation 528
+револю́ция — revolution 529
+узурпа́ция — usurpation 530
+федера́ция — federation 531
+эвакуа́ция — evacuation 532
+эмигра́ция — emigration 533
+аффилиа́ция — affiliation 534
+вентиля́ция — ventilation 535
+деформа́ция — deformation 536
+дисфу́нкция — dysfunction 537
+иммигра́ция — immigration 538
+иногура́ция — inauguration 539
+инстру́кция — instruction 540
+депиля́ция — depilation 541
+детона́ция — detonation 542
+колле́кция — collection 543
+кастра́ция — castration 544
+инициа́ция — initiation 545
+инкуба́ция — incubation 546
+иннова́ция — innovation 547
+инспе́кция — inspection 548
+интона́ция — intonation 549
+стимуля́ция — stimulation 550
+эмансипа́ция — emancipation 572
+аккредита́ция — accreditation 573
+аргумента́ция — argumentation 574
+ароматиза́ция — aromatization 575
+амплифика́ция — amplification 576
+визуализа́ция — visualization 577
+глобализа́ция — globalization 578
+демонстра́ция — demonstration 579
+драматиза́ция — dramatization 580
+карбониза́ция — carbonization 581
+квалифика́ция — qualification 582
+консульта́ция — consultation 583
+конфедера́ция — confederation 584
+конфигура́ция — configuration 585
+концентра́ция — concentration  566
+нормализа́ция — normalization 568
+стерилиза́ция — sterilization 570
+идентифика́ция — identification  Words that finish with -sion/-sia in English and -
+эли́зия — elision 592
+эро́зия — erosion 593
+иллю́зия — illusion 594
+реви́зия — revision 595
+дифу́зия — diffusion 596
+колли́зия — collision 597
+ве́рсия — version 607
+ми́ссия — mission 608
+пе́нсия — pension 609
+се́ссия — session 610
+трансми́ссия — transmission 611
+агре́ссия — aggression 612
+анне́ксия — annexation 613
+диве́рсия — diversion 614
+депре́ссия — depression
+гори́лла — gorilla
+дельф и́н — dolphin
+диноз а́вр — dinosaur
+жира́ф — giraffe
+ти́гр — tiger
+трито́н — Triton
+химе́ра — chimera
+хамеле о́н — chameleon
+муре́на — moray eel
+бизо́н — bison
+анако́нда — anaconda 651
+антил о́па — antelope 652
+бабуи́н — baboon  653
+баракк у́да — barracuda 654
+гиббо́н — gibbon 655
+ди́нго — dingo 656
+э́му — emu 657
+гусь — goose 658
+панте́ра — panther  659
+коли́бри — colibr
+муфл о́н — mouflon
+кенгур у́ — canguro 661
+ко́бра — cobra 662
+ки́ви — kiwi 663
+ла́ма — lama  664
+салам а́ндра — salamander
+ла́нгур — langur  666
+коли́бри — colibr
+и́бис — ibis
+кенгур у́ — canguro 668
+ко́бра — cobra 669
+ки́ви — kiwi 670
+ла́ма — lama  671
+ле́мур — lemure  672
+ле́мминг — lemming  673
+леоп а́рд — leopardo  674
+мака́к — macaco  675
+сурик а́т — suricato  676
+вомба́т — wombat 678
+зе́бра — zebra 680
+магно́лия — magnolia 697
+эвкали́пт — eucalyptus 698
+бамбу́к — bamboo 699
+ка́ктус — cactus 700
+па́льма — palm tree 701
+мимо́за — mimosa 702
+аза́лия — azalea 703
+а́стра — aster 704
+валериа́на — valerian 705
+бонса́й — bonsai 706
+жасми́н — jasmine 707
+кале́ндула — calendula 708
+кро́кус — crocus 709
+ири́с — iris 710
+каме́лия — camellia 711
+пету́ния — petunia     Musical terms and instruments   712
+мандоли́на — mandolin 713
+соне́т — sonnet 714
+септе́т — septet 715
+синтеза́тор — synthesizer 716
+со́ло — solo 717
+соли́ст — soloist 718
+сольфе́джио — solfeggio
+сопра́но — soprano 764
+фортепья́но — piano 765
+гита́ра — guitar 766
+симфо́ния — symphony 767
+орке́стр — orchestra 768
+три́о — trio 769
+серена́да — serenade 770
+барито́н — baritone 771
+га́мма — gamma 772
+джа́з — jazz 773
+по́п — pop 774
+ро́к — rock 775
+домина́нта — dominant 776
+контра́льто — contralto    740
+контрте́нор — countertenor   742
+мажо́р — major  744
+мело́дия — melody 746
+мо́тив — motive 748
+окте́т — octet 750
+о́рган — organ   752
+алле́гро — allegro   754
+анса́мбль — ensemble   756
+ба́с — bass   758
+ефре́н — refrain   760
+тре́моло — tremolo   762
+граммофо́н — gramophone
+аллего́рия — allegory 778
+ма́ния — mania 779
+мета́фора — metaphor 780
+микроско́п — microscope 781
+ме́теор — meteor 782
+мелани́н — melanin 783
+а́нфора — amphora 784
+апа́тия — apathy 785
+апо́стол — apostle 786
+асфа́льт — asphalt 787
+автомоби́ль — automobile 788
+биопси́я — biopsy 789
+биосфе́ра — biosphere 790
+неологи́зм — neologism 791
+плане́та — planet 792
+пла́зма — plasma 793
+ревмати́зм — rheumatism 794
+сарка́зм — sarcasm 795
+шизофрени́я — schizophrenia 796
+систе́ма — system 797
+страте́гия — strategy 798
+теоло́гия — theology 799
+тео́рия — theory 800
+теа́тр — theater 801
+тра́вма — trauma 802
+тирани́я — tyranny 803
+ура́н — uranium 804
+кла́н — clan 805
+таба́к — tobacco 806
+эмба́рго — embargo 807
+е́вро — euro 808
+ли́ра — lira 809
+идио́т — idiot  811
+ма́гма — magma
+кали́бр — caliber 849
+фатали́зм — fatalism 850
+феммини́стка — feminist 851
+феммини́зм — feminism  848
+акрофо́бия — acrophobia 862
+авиафо́бия — aviophobia 863
+агорафо́бия — agoraphobia 864
+арахнофо́бия — arachnophobia 865
+герпетофо́бия — herpetophobia 866
+гемофо́бия — hemophobia 867
+гипнофо́бия — hypnophobia 868
+гомофо́бия — homophobia 869
+клаустрофо́бия — claustrophobia 870
+ксенофо́бия — xenophobia 871
+о́фис — office 884
+кросс — cross 885
+ло́бби — lobby 886
+шо́у — show 887
+ко́лледж — college 888
+бестсе́ллер — bestseller 889
+би́знес — business 890
+билбо́рд — billboard 891
+бифште́кс — beefsteak 892
+блеф — bluff 893
+бойфре́нд — boyfriend 894
+бриз — breeze 895
+босс — boss 933
+бренд — brand 934
+грант — grant 935
+галло́н — gallon 936
+гиперма́ркет — hypermarket 937
+ло́бби — lobby 938
+киллер — show 939
+килт — college 940
+клуб — bestseller 941
+клоун — business 942
+ковбой — billboard 943
+коктейль — beefsteak 944
+конвейер — blockbuster 945
+контейнер — boycott 946
+коп — boyfriend 947
+да́йвинг — diving 948
+де́нди — dandy  949
+дефо́лт — default  950
+джем — jam  951
+дже́мпер — jumper  952
+джентльме́н — gentleman  953
+джи́нсы — jeans  954
+джо́кер — joker  955
+джо́уль — joule  956
+джу́нгли — jungle  957
+ди́скурс — discourse  958
+до́пинг — doping  959
+и́мидж — image  960
+импи́чмент — impeachment 961
+интервью́ — interview 962
+гёрлфренд — girlfriend 963
+интерфе́йс — interface 964
+ка́нтри — country 965
+ка́стинг — casting 966
+кекс — cake 967
+кероси́н — kerosene 968
+кикбо́ксинг — kickboxing 969
+рада́р — radar 999
+ра́лли — rally 1000
+реалити-шо́у — reality show 1001
+рейд — raid 1002
+рекордсме́н — record holder 1003
+рельс — rail 1004
+ринг — ring 1005
+риэ́лтор — real estate agent 1006
+ро́уминг — roaming 1007
+са́ммит — summit 1008
+сви́тер — sweater 1009
+сейф — safe 1010
+секво́йя — sequoia 1011
+се́лфи — selfie 1012
+се́рвер — server 1013
+си́квел — sequel 1014
+сингл — single 1015
+скриншо́т — screenshot 1016
+сленг — slang 1017
+слэш — slash 1018
+сма́йлик — smiley 1019
+смог — smog 1020
+смо́кинг — tuxedo 1021
+сноб — snob 1022
+стенд — stand 1023
+стрессв — stress 1024
+стю́ард — steward    997
+таймаут — timeout         Dances   1025
+ру́мба — rumba 1026
+са́льса — salsa 1027
+са́мба — samba 1028
+свинг — swing 1029
+та́нго — tango 1030
+тверк — twerk 1031
+тарантелла — tarantella
+фламе́нко — flamenco 1042
+фокстро́т — foxtrot 1043
+бактериа́льный — bacterial 1076
+мануальный — manual 1046
+материа́льный — material 1047
+матриарха́льный — matriarchal 1048
+матримониа́льный — matrimonial 1049
+менеджериальный — managerial 1050
+монумента́льный — monumental 1051
+музыка́льный — musical 1052
+мультифункцианальный — multifunctional 1053
+натура́льный — natural 1054
+норма́льный — normal 1055
+нотариа́льный — notarial 1056
+оптима́льный — optimal 1057
+орнамента́льный — ornamental 1058
+орбита́льный — orbital 1059
+паранормальный — paranormal 1060
+профессиона́льный — professional 1061
+радиа́льный — radial 1062
+секториальный — sectoral 1063
+спектра́льный — spectral 1064
+термальный — thermal 1065
+территориа́льный — territorial 1066
+тона́льный — tonal 1067
+триумфа́льный — triumphal 1068
+федера́льный — federal 1069
+феномена́льный — phenomenal 1070
+фундамента́льный — fundamental 1071
+центра́льный — central 1072
+экваториа́льный — equatorial 1073
+форма́льный — formal 1074
+максима́льный — maximal
+агресси́вный — aggressive 1133
+адапти́вный — adaptive 1134
+администрати́вный — administrative 1135
+акти́вный — active 1136
+альтернати́вный — alternative 1137
+аффекти́вный — affective 1138
+дедукти́вный — deductive 1139
+демонстрати́вный — demonstrative 1140
+депресси́вный — depressive 1141
+детекти́вный — detective 1142
+дефекти́вный — defective 1143
+иллюстрати́вный — illustrative 1144
+импульси́вный — impulsive 1145
+инвазивный — invasive 1146
+индукти́вный — inductive 1147
+интенси́вный — intensive 1148
+интерактивный — interactive 1149
+интуити́вный — intuitive 1150
+информати́вный — informative 1151
+когнитивный — cognitive 1152
+коллекти́вный — collective 1153
+коммуникати́вный — communicative 1154
+конвульси́вный — convulsive 1155
+консервати́вный — conservative 1156
+конструкти́вный — constructive 1157
+кооперати́вный — cooperative 1158
+масси́вный — massive         -ical / -ic
+адриатический — adriatic 1169
+акусти́ческий — acoustic 1170
+аллерги́ческий — allergic 1171
+аналити́ческий — analytical 1172
+аркти́ческий — arctic 1173
+аромати́ческий — aromatic 1174
+архаи́ческий — archaic 1175
+биометри́ческий — biometric 1176
+вулкани́ческий — volcanic 1177
+генети́ческий — genetic 1178
+истери́ческий — hysterical 1218
+канони́ческий — canonical 1219
+кинети́ческий — kinetic 1220
+кирилли́ческий — cyrillic 1221
+класси́ческий — classical 1222
+климати́ческий — climatic 1223
+клини́ческий — clinical 1224
+коми́ческий — comic 1225
+кони́ческий — conical 1226
+косми́ческий — cosmic 1227
+лири́ческий — lyrical 1228
+логи́ческий — logical 1229
+лунати́ческий — lunatic 1230
+маги́ческий — magic 1231
+металли́ческий — metallic 1232
+методи́ческий — methodical 1233
+метри́ческий — metric 1234
+мими́ческий — mimetic 1235
+мифи́ческий — mythic 1236
+мнемони́ческий — mnemonic 1237
+наркоти́ческий — narcotic 1238
+невроти́ческий — neurotic 1239
+океани́ческий — oceanic 1240
+опти́ческий — optical 1241
+органи́ческий — organic 1242
+пани́ческий — panic 1243
+патологи́ческий — pathological 1244
+педагоги́ческий — pedagogical 1245
+периоди́ческий — periodic 1246
+пласти́ческий — plastic 1247
+платони́ческий — platonic 1248
+полити́ческий — political 1249
+поэти́ческий — poetic 1250
+практи́ческий — practical    1213
+ритори́ческий — rhetorical    1215
+ромби́ческий — rhombic    1217

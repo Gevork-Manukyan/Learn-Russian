@@ -9,8 +9,16 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://learnrussian.gevorkmanukyan.com"),
   title: "Learn Russian · Flashcards",
   description: "Practice Russian vocabulary with elegant flashcards",
+  openGraph: {
+    title: "Learn Russian · Flashcards",
+    description: "Practice Russian vocabulary with elegant flashcards",
+    url: "https://learnrussian.gevorkmanukyan.com",
+    siteName: "Learn Russian",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

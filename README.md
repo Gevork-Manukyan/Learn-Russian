@@ -2,6 +2,8 @@
 
 A modern flashcard application built with Next.js for practicing Russian vocabulary. Study 646 Russian-English word pairs with an interactive flashcard interface.
 
+**Live site:** [learnrussian.gevorkmanukyan.com](https://learnrussian.gevorkmanukyan.com)
+
 ## Features
 
 - **Interactive Flashcards**: Click to flip between Russian and English translations

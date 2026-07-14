@@ -41,3 +41,24 @@ body {
 .animate-rise {
   animation: rise 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
+
+/* Respect users who prefer reduced motion: drop mount animations,
+   card-flip transitions, and the fixed-attachment repaint cost. */
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise {
+    animation: none;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  body {
+    background-attachment: scroll;
+  }
+}

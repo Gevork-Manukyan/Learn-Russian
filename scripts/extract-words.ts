@@ -38,7 +38,7 @@ function parseWordsFile(filePath: string): WordPair[] {
 }
 
 // Main execution
-const inputPath = path.join(process.cwd(), 'public', 'russian_english_pairs.txt');
+const inputPath = path.join(process.cwd(), 'scripts', 'source-material', 'russian_english_pairs.txt');
 const outputPath = path.join(process.cwd(), 'src', 'data', 'words.json');
 
 const wordPairs = parseWordsFile(inputPath);

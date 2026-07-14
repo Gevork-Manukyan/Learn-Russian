@@ -71,7 +71,7 @@ export default function Home() {
       <div className="mx-auto w-full max-w-2xl">
         {/* Header */}
         <header className="mb-10 text-center animate-rise">
-          <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium tracking-wide text-indigo-200/80 backdrop-blur">
+          <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium tracking-wide text-indigo-200 backdrop-blur">
             <span className="h-1.5 w-1.5 rounded-full bg-indigo-400" />
             Vocabulary Trainer
           </span>
@@ -88,7 +88,7 @@ export default function Home() {
           <div className="mb-2 flex items-center justify-between text-sm">
             <span className="font-medium text-gray-300">
               Card <span className="text-white">{currentIndex + 1}</span>
-              <span className="text-gray-500"> / {total}</span>
+              <span className="text-gray-400"> / {total}</span>
             </span>
             <button
               onClick={handleShuffle}

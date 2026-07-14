@@ -71,7 +71,7 @@ function Face({
       {/* soft sheen */}
       <div className="pointer-events-none absolute inset-0 bg-linear-to-t from-black/20 to-white/5" />
 
-      <span className="absolute top-5 left-6 text-xs font-medium uppercase tracking-[0.2em] text-white/60">
+      <span className="absolute top-5 left-6 text-xs font-medium uppercase tracking-[0.2em] text-white/80">
         {label}
       </span>
 
@@ -79,7 +79,7 @@ function Face({
         {word}
       </p>
 
-      <span className="absolute bottom-5 text-xs font-medium tracking-wide text-white/50 transition-opacity group-hover:opacity-100 opacity-70">
+      <span className="absolute bottom-5 text-xs font-medium tracking-wide text-white/80 transition-opacity group-hover:opacity-100 opacity-90">
         Tap or press Space to flip
       </span>
     </div>

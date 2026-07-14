@@ -1,5 +1,14 @@
 import type { NextConfig } from "next";
 
+const isDev = process.env.NODE_ENV === "development";
+
+// In development, React + Turbopack use eval() for HMR and debugging, so the
+// dev CSP must allow 'unsafe-eval'. Production never uses eval(), so it stays
+// out of the shipped policy.
+const scriptSrc = isDev
+  ? "script-src 'self' 'unsafe-inline' 'unsafe-eval'"
+  : "script-src 'self' 'unsafe-inline'";
+
 // Security headers applied to every route. Kept conservative so nothing in the
 // app (self-hosted fonts, inline styles from next/font + Tailwind) breaks.
 const securityHeaders = [
@@ -20,11 +29,12 @@ const securityHeaders = [
       "default-src 'self'",
       // Next injects small inline runtime scripts; 'unsafe-inline' is needed
       // for those and for next/font's inline styles.
-      "script-src 'self' 'unsafe-inline'",
+      scriptSrc,
       "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data:",
       "font-src 'self' data:",
-      "connect-src 'self'",
+      // Dev needs websocket/HTTP back to the dev server for HMR.
+      isDev ? "connect-src 'self' ws: wss:" : "connect-src 'self'",
       "base-uri 'self'",
       "form-action 'self'",
       "frame-ancestors 'none'",

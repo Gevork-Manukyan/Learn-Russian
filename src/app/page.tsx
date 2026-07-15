@@ -67,7 +67,7 @@ export default function Home() {
   const atEnd = currentIndex === total - 1;
 
   return (
-    <main className="min-h-screen px-4 py-10 sm:py-16">
+    <main className="flex-1 px-4 py-10 sm:py-16">
       <div className="mx-auto w-full max-w-2xl">
         {/* Header */}
         <header className="mb-10 text-center animate-rise">
